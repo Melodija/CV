@@ -1,10 +1,10 @@
 ## Ruta Baltiejute
 
-After helping my family for a while in their financial advising business, our IT guy left for Cyprus. Thinking everything would be fine, we continued as normal. A few weeks later: the server died, the receptionist's computer literally exploded, nobody has access to anything anymore. That week was one of the best in the office. I had to try and fix everything that had broken and learnt so much during it.
+IT guy has left. A few weeks later: the server dies, the receptionist's computer literally explodes, nobody has access to anything anymore. That week was one of the best in the financial advising office I worked in. I had to try and fix everything that had broken and learnt so much during it.
 
 This reminded me of how I had wanted to do computer science at university. This led me to search for how I could get into this industry in the not so traditional way when I came across Makers Academy, a 12 week intensive bootcamp teaching you how to code.
 
-From this experience, I was able to discover that it's possible to learn anything no matter what your background is and so I would love to continue to further my knowledge.
+From this, I was able to discover that it's possible to learn anything no matter what your background is. 
 
 ## Skills
 
@@ -18,7 +18,7 @@ When teaching, I've had to make sure that it was fun and interesting to not lose
 
 #### Accuracy
 
-Working as a mortgage adviser's assistant, accuracy was always of high importance. Clients expect their application to be processed as quickly as possible yet I ensured that all their documents were correct and accurate. If incorrect details are submitted to the bank, this can severly delay the process or can completely ruin the applicant's chance of receiving a mortgage offer. 
+Working as a mortgage adviser's assistant, accuracy was always of high importance. Clients expect their application to be processed as quickly as possible yet I ensured that all their documents were correct and accurate. If incorrect details are submitted to the bank, this can severely delay the process or can completely ruin the applicant's chance of receiving a mortgage offer. 
 
 #### Can ride a bike
 
