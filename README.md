@@ -58,13 +58,13 @@ Project Name | Description | Technologies | Testing
 ## Experience
 
 **Klevas Consulting** | June 2015 to April 2016    
-*Mortgage Adviser's Assistant* | Correspondence with clients, creating KFIs, suitability letters and calculating affordability.
+*Mortgage Adviser's Assistant* | Correspondence with clients, creating KFIs, suitability letters and calculating affordability.                                                                                                          
 **Klevas Consulting** | July 2014 to September 2014    
-*Accountant's Assistant* | Creating excel tables for accountancy, calculating P&L accounts for clients and companies.     
+*Accountant's Assistant* | Creating excel tables for accountancy, calculating P&L accounts for clients and companies.       
 **Coteford Junior School** | June 2014            
-*Teaching Assistant* | Helping out with school projects and organising sports day. Aiding disabled children's assistants.
+*Teaching Assistant* | Helping out with school projects and organising sports day. Aiding disabled children's assistants.   
 **Klevas Consulting** | June 2013 to September 2013    
-*Office Junior* | Scanning and filing, creating forms and administrating the website. Translating and proof reading texts and creating templates.
+*Office Junior* | Scanning and filing, creating forms and administrating the website. Translating and proof reading texts and creating templates.                                                                                                   
 **Grangewood School** | June 2012           
 *Artist / Decorator* | Painted a mural round the school playground.
 
