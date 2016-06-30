@@ -10,7 +10,7 @@ From this experience, I was able to discover that it's possible to learn anythin
 
 #### Communication
 
-I have spent the last 12 weeks coding instensively and pairing people all day, everyday. During this, I've been able to explain complex ideas to others as well as help them with debugging. I was able to improve on my general presentation and public speaking skills during my TEFL course. I was taught how to plan and deliver lessons in English to people who had no idea what I was saying. I was able to make it fun and get my point across which also gave me more confidence in these areas. During my time at Coteford Junior School, I was able to aid the teacher in leading the class as well as being able to explain to the children various concepts taught during the lesson. 
+I have spent the last 12 weeks coding intensively and pairing people all day, everyday. During this, I've been able to explain complex ideas to others as well as help them with debugging. I was able to improve on my general presentation and public speaking skills during my TEFL course. I was taught how to plan and deliver lessons in English to people who had no idea what I was saying. I was able to make it fun and get my point across which also gave me more confidence in these areas. During my time at Coteford Junior School, I was able to aid the teacher in leading the class as well as being able to explain to the children various concepts taught during the lesson. 
 
 #### Leadership
 
@@ -37,7 +37,7 @@ Project Name | Description | Technologies | Testing
 #### Makers Academy (April 2016 to July 2016)
 
 - Good coding practices such as TDD, SOLID and XP programming
-- Perseverence in problem solving
+- Perseverance in problem solving
 - Software Craftsmanship
 - Languages used: Ruby, Rails, Javascript, Angular.js, Node.js, Express
 - Testing frameworks used: Rspec, Jasmine, Karma, Protractor, Mocha, Chai
@@ -64,7 +64,7 @@ Project Name | Description | Technologies | Testing
 **Coteford Junior School** | June 2014            
 *Teaching Assistant* | Helping out with school projects and organising sports day. Aiding disabled children's assistants.   
 **Klevas Consulting** | June 2013 to September 2013    
-*Office Junior* | Scanning and filing, creating forms and administrating the website. Translating and proof reading texts and creating templates.                                                                                                   
+*Office Junior* | Scanning and filing, creating forms and administrating the website. Translating and proofreading texts and creating templates.                                                                                                   
 **Grangewood School** | June 2012           
 *Artist / Decorator* | Painted a mural round the school playground.
 
