@@ -30,7 +30,7 @@ Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
 [No Parks After Dark](https://github.com/Melodija/noParksAfterDark) | A safe routing mobile app which routes round areas that are considered unsafe after sunset. It has a completely decoupled [backend](https://github.com/Melodija/noParksAfterDarkBackend) as well. | Node.js, Express, Angular, Javascript, Cordova Geolocator, Ionic, Heroku, Here Maps Javascript and REST APIs, Google Places API  | Jasmine, Karma, Protractor, Mocha, Chai, Supertest
 [Werewolves](https://github.com/Melodija/Werewolves) | A completely front-end app created to aid new players and the narrator through the game [Werewolves of Miller's Hollow](https://boardgamegeek.com/boardgame/25821/werewolves-millers-hollow) which is a popular game at Makers Academy | Javascript, AngularJS  | Jasmine, Karma, Protractor
-[MakersBnB](https://github.com/Melodija/makers-bnb) | A replica of AirBnb created in 5 days in a group of 4.  | Ruby, Sinatra  | Rspec, Capybara
+[MakersBnB](https://github.com/Melodija/makers-bnb) | A replica of AirBnB created in 5 days in a small group.  | Ruby, Sinatra  | Rspec, Capybara
 
 ## Education
 
@@ -74,3 +74,4 @@ Project Name | Description | Technologies | Testing
 - Also, hardcore rocking out to piano music as if I'm listening to something else.
 - DIY - just generally seeing what I'm able to make myself whether it's beauty products, things around the home or clothing. It poses an interesting challenge.
 - Skiing - 10 years worth of snow and ice.
+- Raspberry Pi Projects - so far I have created a VPN and a game emulator.
